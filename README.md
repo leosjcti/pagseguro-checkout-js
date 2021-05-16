@@ -1,0 +1,1 @@
+# pagseguro-checkout-js
